@@ -1,0 +1,6 @@
+C:\Users\alex_v_1.1\Documents\experience_it_.net_bootcamp\lab_ten\lab_ten\bin\Debug\lab_ten.exe.config
+C:\Users\alex_v_1.1\Documents\experience_it_.net_bootcamp\lab_ten\lab_ten\bin\Debug\lab_ten.exe
+C:\Users\alex_v_1.1\Documents\experience_it_.net_bootcamp\lab_ten\lab_ten\bin\Debug\lab_ten.pdb
+C:\Users\alex_v_1.1\Documents\experience_it_.net_bootcamp\lab_ten\lab_ten\obj\Debug\lab_ten.csprojResolveAssemblyReference.cache
+C:\Users\alex_v_1.1\Documents\experience_it_.net_bootcamp\lab_ten\lab_ten\obj\Debug\lab_ten.exe
+C:\Users\alex_v_1.1\Documents\experience_it_.net_bootcamp\lab_ten\lab_ten\obj\Debug\lab_ten.pdb
